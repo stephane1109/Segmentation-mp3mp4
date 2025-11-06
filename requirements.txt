@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+pydub
+Pillow
+python-dotenv
+google-generativeai

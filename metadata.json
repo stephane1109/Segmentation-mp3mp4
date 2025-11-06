@@ -1,0 +1,5 @@
+{
+  "name": "AI Speaker Segmentation",
+  "description": "Une application pour analyser un fichier audio (MP3 ou URL YouTube) et segmenter le texte par locuteur, en identifiant visuellement chaque personne.",
+  "requestFramePermissions": []
+}
